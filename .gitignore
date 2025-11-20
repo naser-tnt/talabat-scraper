@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+.venv/
+
+# Mac
+.DS_Store
+
+# Project Specific
+scraped_data/
+test_images/
